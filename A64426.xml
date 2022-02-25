@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true Christian svbject vnder an heathen prince, or, Tertvllians plea for allegiance argued in time of the sixth persecution under the emperour Severvs, Ann. DOM. 204 with a briefe application to the citizens of London / written by a member of the House of Commons.</title>
+            <title>Apologeticum. English &amp; Latin. Selections</title>
+            <author>Tertullian, ca. 160-ca. 230.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64426</idno>
+            <idno type="STC">Wing T789</idno>
+            <idno type="EEBO-CITATION">12272408</idno>
+            <idno type="OCLC">ocm 12272408</idno>
+            <idno type="VID">198060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E90, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true Christian svbject vnder an heathen prince, or, Tertvllians plea for allegiance argued in time of the sixth persecution under the emperour Severvs, Ann. DOM. 204 with a briefe application to the citizens of London / written by a member of the House of Commons.</title>
+                  <title>Apologeticum. English &amp; Latin. Selections</title>
+                  <author>Tertullian, ca. 160-ca. 230.</author>
+                  <author>Member of the House of Commons.</author>
+                  <author>Philopolis, Irenaeus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Application to the citizens of famous London" signed Your friend, more then they who vote for warre, Irenaeus Philopolis.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197060:1" rendition="simple:additions"/>
+            <p>A TRUE CHRISTIAN SVBIECT Vnder an Heathen <hi>PRJNCE:</hi>
+            </p>
+            <p>OR TERTVLLIANS Plea for Allegiance, argued in time of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſixth Perſecution, under the Emperour SEVERVS. <hi>Ann. Dom.</hi> 204.</p>
+            <p>With a Briefe Application, to the Citizens of <hi>LONDON,</hi>
+            </p>
+            <p>Written by a MEMBER of the HOUSE of <hi>COMMONS.</hi>
+            </p>
+            <p>
+               <add>Feb: 21 1642</add>OXFORD, Printed by <hi>Henry Hall An. Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:197060:2"/>
+            <pb n="1" facs="tcp:197060:2"/>
+            <head>A TRVE CHRISTIAN Subiect under a Heathen Prince; or TERTVLLIANS plea for Allegiance, argued in time of the ſixth Perſecution under the Emperour SEVERVS. <hi>Ann. Dom.</hi> 204.</head>
+            <div xml:lang="lat" type="version">
+               <p>PRecantes ſu<g ref="char:EOLhyphen"/>mus ſemper pro omnibus Imperatori<g ref="char:EOLhyphen"/>bus,<note place="margin">Apol. ca. 30.</note> vitam illis prolixam, Imperium ſecurum, domum tutam, exercitus fortes, Se<g ref="char:EOLhyphen"/>natum fidelem, populum pro<g ref="char:EOLhyphen"/>bum, orbem quietum, quae<g ref="char:EOLhyphen"/>cunque hominis &amp; <hi>Caeſa<g ref="char:EOLhyphen"/>ris</hi> vota ſunt. <hi>Cap. 33.</hi> Imperatorem <hi>Dominus</hi> no<g ref="char:EOLhyphen"/>ſter elegit: ut merito dixe<g ref="char:EOLhyphen"/>rim, noſter eſt magis <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> ut á <hi>Deo noſtro</hi> conſtitutus, itaque ut meo plus illi operor in ſalutem. <hi>Cap. 36.</hi> Iidem ſumus Im<g ref="char:EOLhyphen"/>peratoribus, qui &amp; vicinis noſtris; malè enim velle, malé facere, malé dice<g ref="char:EOLhyphen"/>re, malè cogitare de quo<g ref="char:EOLhyphen"/>quam ex aequo vetamur.
+<pb n="2" facs="tcp:197060:3"/>Quodcunque non licet in Imperatorem, id nec in quenquam: quod in nemi<g ref="char:EOLhyphen"/>nem, eo forſitan magis nec in ipſum qui per <hi>De<g ref="char:EOLunhyphen"/>um</hi> tantus eſt. Heſter<g ref="char:EOLhyphen"/>ni ſumus, &amp; veſtra om<g ref="char:EOLhyphen"/>nia implevimus, Vebes, Inſulas, Caſtella, Munici<g ref="char:EOLhyphen"/>pia, Conciliabula, Caſtra ipſa, Tribus, Decurias, pae<g ref="char:EOLhyphen"/>latium, Senatum, Forum, ſola vobis relinquimus Templa. Cui bello non ido<g ref="char:EOLhyphen"/>nei, non promptifuiſſemus, etiam impares copijs, qui<g ref="char:EOLhyphen"/>tam libenter trucidamur? Si non apud iſtam diſci<g ref="char:EOLhyphen"/>plinam magis occidi lice<g ref="char:EOLhyphen"/>ret, quàm occidere. Potui mus &amp; inermes, nec Re<g ref="char:EOLhyphen"/>belles, ſed tantummodo diſcordes ſolius divertii invidia adverſus vos di<g ref="char:EOLhyphen"/>micaſſe. Si enim tanta vis hominum in aliquem orhis remoti ſinum abru<g ref="char:EOLhyphen"/>piſſemus a vobis, ſuffudiſ<g ref="char:EOLhyphen"/>ſet utique Dominationem veſtram tot qualiumcun. que amiſsio civium, imò
+<pb n="3" facs="tcp:197060:3"/>etiam &amp; deſtitutione puniſſet. Procul dubio expav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſetis ad ſolitudi<g ref="char:EOLhyphen"/>nem veſtram, ad ſilen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>um rerum, &amp; ſtuporem quemda<g ref="char:cmbAbbrStroke">̄</g> quaſi mortuae urbis quaeſiſſetis quibus in ea imperaſſetis. Plures hoſtes quám cives reman<g ref="char:EOLhyphen"/>ſiſſent. Nunc enim pau<g ref="char:EOLhyphen"/>ciores hoſpes habet is prae multitudine Chriſtiano<g ref="char:EOLhyphen"/>rum penè omnium civi<g ref="char:EOLhyphen"/>um, penè omnes cives Chriſtianos habendo.</p>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="1" facs="tcp:197060:2"/>
+               <p>VVE alwayes pray for all Empe<g ref="char:EOLhyphen"/>rors that they may enjoy a long Life, ſecure Empire, ſafe manſi<g ref="char:EOLhyphen"/>on, ſtrong Armies, faithfull Counſell, good Subjects, quiet times, and whatſoe<g ref="char:EOLhyphen"/>ver may be his wiſh as a man, and as a <hi>Caeſar:</hi> it is our <hi>Lord</hi> who hath choſen the Emperour: and I may juſtly ſay, <hi>Caeſar</hi> is more ours then yours, as being conſtituted by <hi>our God:</hi> and therefore I doe more la<g ref="char:EOLhyphen"/>bour for his ſafety, he be<g ref="char:EOLhyphen"/>ing my King. We are the ſame to the Emperours, as we are to our own neigh<g ref="char:EOLhyphen"/>bours, for wee are equally forbidden to wiſh ill, do ill, ſpeak ill, think ill of any ma<g ref="char:cmbAbbrStroke">̄</g>.
+<pb n="2" facs="tcp:197060:3"/>Whatſoever is not lawfull a<g ref="char:EOLhyphen"/>gainſt the Emperour, is unlaw<g ref="char:EOLhyphen"/>full toward any other: what may be done unto no man, ſo much the rather may not be done unto him, who <hi>through God</hi> is ſo great a man, We are but of yeſterday, yet have wee filled all places a<g ref="char:EOLhyphen"/>mong you, Cities, Iſlands, Cittadels, Boroughs, Aſſem<g ref="char:EOLhyphen"/>blies, your very Campe, your Tribes of the common peo<g ref="char:EOLhyphen"/>ple, Decuries of the Iudges, the Palace, the Senate, the Iu<g ref="char:EOLhyphen"/>dicatories, we onely leave to you your Temples. For what Warr are not wee fit and ready, though wee were fewer in number, who ſo willingly are put to death? But that wee are taught that it is more lawfull to be ſlaine, then to kill. Wee (even without Armes, and without Rebel<g ref="char:EOLhyphen"/>ling) if wee differed from you in the ill will of a Diviſion on<g ref="char:EOLhyphen"/>ly, could fight enough againſt you. For if we (ſo great aforce) ſhould breake from you into any remote corner of the world, ſo great a loſſe of Citi<g ref="char:EOLhyphen"/>zens (ſuch as wee are, whatſo<g ref="char:EOLhyphen"/>ever
+<pb n="3" facs="tcp:197060:3"/>you thinke of us) would undermine your Empire: I, and puniſh you enough even with a meere deſertion. Without all doubt, you would have ſtarted at your owne ſolitude, at the dumbneſſe of things, and in a certaine amazement as of a dead City, you would have en<g ref="char:EOLhyphen"/>quired for people over whom to reigne. You would have found more enemies, than Ci<g ref="char:EOLhyphen"/>tizens. For, even now you have the fewer enemies, by reaſon of the multitude of Chriſtian Citizens, having almoſt all Citizens Chriſtian among you.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Application to the Citizens of fa<g ref="char:EOLhyphen"/>mous <hi>LONDON.</hi>
+            </head>
+            <p>Thus <hi>Tertullian,</hi> from the very Principles of our <hi>Chriſtian</hi> Religion, doth plead the harmeleſſe jnnocency, the willing obedience, and due ſubjection of primitive <hi>Chriſtians,</hi> even to irreligious heathen, &amp; to perſecuting Kinges. Is Religion Changed? or have our Princes leſſe duty owing unto them then the Heathen had? Is <hi>Buchan<g ref="char:EOLhyphen"/>an</hi> wiſe, &amp; <hi>Tertullian</hi> a foole; Is <hi>Machiavell</hi> true, and <hi>Ter<g ref="char:EOLunhyphen"/>tullian</hi> falſe? Are <hi>Iunius Brutus, Burrowes, Parker, Pryn,</hi>—good ſubjects. and was <hi>Tertullian</hi> a Traytor? will you
+<pb n="4" facs="tcp:197060:4"/>value ſeditious Pamphlets, and deſpiſe the ancient when they ſpeake Orthodoxe? Are we leſſe bound to the ſa<g ref="char:EOLhyphen"/>cred Text then our Fathers were? Is our Charter of Li<g ref="char:EOLhyphen"/>berties more then God gave to his firſt Saintes? Have we leave to be leſſe <hi>Chriſtian,</hi> then they were? Is <hi>Charles</hi> a Perſecuter, or was <hi>Severus</hi> a Pious Prince? It is a ſhame to plead ſo plaine a cauſe, Noe ſalve can cure a willfull diſtruſt, Three thinges there are, which once (deepely) infected, are never fully cured: <hi>Hereſy, Lunacy,</hi> and <hi>Iea<g ref="char:EOLhyphen"/>louſy,</hi> But God confound their Purpoſes, who not being doubtfull in themſelves, do yet create and nurſe up the <hi>Iealouſies</hi> of others, wherewith to work their owne darke ends. Miſerable are the people who Reſolue to ſee onely with their eares. Demonſtration will not con<g ref="char:EOLhyphen"/>vince them. Their eare is tickled that here is an Army of Papiſts, when yet we goe to the Proteſtant Church, and there performe all the oppoſites to papall ſuperſti<g ref="char:EOLhyphen"/>tion. Awake, and ſee how your ſoules are ſotted, by giveing them up to theſe deluſions. Eaſe your ſelves and us by owning the goodneſſe of our King, who gladly would owne your love in adue ſubjection. Spare your ſelves, your wives, your for unes, and your children. All are now ready to be expoſed for that which may be given you without a ſtroake; Nay which is offered to you, and is onely hindered by the wicked miſ interpre<g ref="char:EOLhyphen"/>tation of a few falſe men about you. Do not ſay you de<g ref="char:EOLhyphen"/>ſire peace, but give it to us and to your ſelves by leaving impeached Traytors to ſtand or fall alone. What is <hi>Pym</hi> what are <hi>Hollis, Hampden, Haſelrig,</hi> and <hi>Strode,</hi> what <hi>Kim<g ref="char:EOLhyphen"/>bol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> and a few men more that they may not undergoe the tryall of our Lawes? Aske any one of them alone, and if hee have not innocency enough to offer himſelfe
+<pb n="5" facs="tcp:197060:4"/>to the tryall, yet he will have ſhame enough to ſay, hee is not affraid to be tryed: Hee hath not braſſe enough to ſay, I will not be tryed by the Law of the Land. whether theſe men (and others) be guilty or innocent, will you for ever undoe this Kingdome, rather then let us know whether they be innocent or no? what have they deſer<g ref="char:EOLhyphen"/>ved that you and thouſands more muſt feele the ſword, for t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m that were the cauſe to un-ſheath it? who ever did <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d downe all that is deare unto us ſo, as they have <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ever laboured to raiſe us up into our juſt li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, as the King hath done? The King doth plead <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ves for us, and they pay him againe with Votes. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King doth owne our true Religion, whilſt a faction <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ng you, doth cheriſh and multiply Schiſmes with good allowance. His Majeſty doth argue the Subiects Liberty, whilſt wee are by fellow Subjects rifled and impriſoned. Hee thought to have enjoyed his owne Property in <hi>Hull,</hi> and was denyed; but Prophecied then that theſe men next would invade your property alſo, as now is done. Looke to the twentieth part, which is but a ſetting dogge to ſhew where the covey of nineteen are, what hopes have you of prevailing in this warre ſo full of doubts, changes, neceſſities, feares, diſtruſts; and ſo many among you (even of your Leaders) truer to the King, then you wiſh or are aware of? I ſpeake the free<g ref="char:EOLhyphen"/>dome of a friend, Do not put us to winne the King his right againe with our ſwords: perhaps the concequen<g ref="char:EOLhyphen"/>ces may reach farther then we wiſh, or you yet do feare. And what would you do, if you ſhould once prevaile? how often muſt you fight again and and again: how many victories upon victories muſt you get, and yet fall ſhort
+<pb facs="tcp:197060:5"/>againe? for our Gratious <hi>King,</hi> and our deare black <hi>Princ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſhall ſtill revive with new ſtrength to ſubdue you. God cannot leave the <hi>King</hi> in this the pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t warre (on his ſide) that ever <hi>Chriſtian</hi> drew a ſword in. Give up thoſe few traytor citizens among you. Lay down your armes, and give the land no farther cauſe to wiſh our beſt City a heape of ſtones.</p>
+            <closer>
+               <signed>Your friend, more then they who Vote for Warre, IRENaeVS PHIL<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>OPOLIS.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
